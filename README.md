@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Inventory Management System using MERN stack
 - 🌱 I’m currently learning Authentication and file uploding in Node js
 - 🤔 I’m looking for help with No one right now.
-- 💬 Ask me about Anything related to tech feild
+- 💬 Ask me about Anything related to tech field
 - 📫 You can reach me by: sthask2019@gmail.com
 - ⚡ Fun fact: JavaScript is responsible for Web2, precursor to Web3.
