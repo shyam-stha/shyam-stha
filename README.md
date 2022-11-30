@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Shyam Shrestha
 
 <!--
 **shyam-stha/shyam-stha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...a
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Inventory Management System using MERN stack
+- 🌱 I’m currently learning Authentication and file uploding in Node js
+- 🤔 I’m looking for help with No one right now.
+- 💬 Ask me about Anything related to tech feild
+- 📫 You can reach me by: sthask2019@gmail.com
+- ⚡ Fun fact: JavaScript is responsible for Web2, precursor to Web3.
