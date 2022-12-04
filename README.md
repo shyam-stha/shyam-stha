@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shyam, a MERN stack developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Shyam, a MERN stack web developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on Inventory Management System  
@@ -15,7 +15,10 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I look like 30 but I am just 20  
+- 📫 How to Reach me : sthask2019@gmail.com  
+  
+
+⚡ Fun fact: I look like 30 but I am just 20  
   
 
 <br/>  
