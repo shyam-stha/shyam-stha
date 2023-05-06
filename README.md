@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Shyam, a MERN stack web developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Shyam, a full stack web developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on Inventory Management System  
+- 🔭 I’m currently working on Tourism management system
   
 
-- 🌱 I’m currently learning authentication with JWT  
+- 🌱 I’m currently learning NestJs, GraphQL 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to my field technologies  
   
 
 - 📫 How to Reach me : sthask2019@gmail.com  
